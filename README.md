@@ -27,8 +27,6 @@
 
 Mini and convenient local music player, lightweight and practical, specially designed for playing local audio, supports a variety of common audio formats, enjoy your music anytime, anywhere!
 
-Supported formats: MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A, etc.
-
 ### Features
 
 - Support local audio file playback
@@ -36,3 +34,5 @@ Supported formats: MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A, etc.
 - Customize player theme color
 - One-click switch to mini mode
 - Display and control player in the status bar
+
+Supported formats: MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A, etc.
