@@ -25,6 +25,8 @@
 
 ![Musicer 1](./assets/screenshots-1.png)
 
+![Musicer 2](./assets/screenshots-2.png)
+
 Mini and convenient local music player, lightweight and practical, specially designed for playing local audio, supports a variety of common audio formats, enjoy your music anytime, anywhere!
 
 ### Features

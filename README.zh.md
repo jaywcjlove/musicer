@@ -25,6 +25,8 @@
 
 ![Musicer 1](./assets/screenshots-1.png)
 
+![Musicer 2](./assets/screenshots-2.png)
+
 迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！
 
 ### 核心功能
