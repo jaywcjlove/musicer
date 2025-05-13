@@ -5,6 +5,20 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.2.0)
+
+1. feat: Support Mac default media keys (F7/F8/F9) for music control
+2. feat: Add context menu option to refresh list data
+3. feat: Add setting to show album artwork in the status bar icon
+4. feat: Add mosaic-style album cover display.
+
+---
+
+1. feat: 支持使用 Mac 默认媒体键（F7/F8/F9）控制音乐播放
+2. feat: 添加右键菜单选项以刷新列表数据
+3. feat: 增加状态栏图标显示专辑封面的设置选项
+4. feat: 支持马赛克风格专辑封面显示
+
 ## [v1.1.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.1.0)
 
 1. feat: Add support for enabling/disabling music folders.
