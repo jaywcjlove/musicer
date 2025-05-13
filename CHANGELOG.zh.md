@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./CHANGELOG.md">English</a>
+</p>
+<!--rehype:style=float: right; bottom: -36px; position: relative;-->
+
 更新日志
 ===
 
