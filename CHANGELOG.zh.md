@@ -10,6 +10,12 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.3.0)
+
+1. feat: 新增隐藏状态栏图标的选项
+2. feat: 播放器区域支持双击操作
+3. feat: 新增键盘快捷键支持
+
 ## [v1.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.2.0)
 
 1. feat: 支持使用 Mac 默认媒体键（F7/F8/F9）控制音乐播放

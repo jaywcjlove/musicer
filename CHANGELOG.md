@@ -10,6 +10,12 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.3.0)
+
+1. feat: Add option to hide the status bar icon.
+2. feat: Add double-click action support for player area.
+3. feat: Add keyboard shortcut support.
+
 ## [v1.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.2.0)
 
 1. feat: Support Mac default media keys (F7/F8/F9) for music control
