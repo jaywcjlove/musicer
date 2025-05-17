@@ -10,6 +10,13 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.4.0)
+
+1. feat: add re-authorization for lost permissions.
+2. feat: support dragging single music files into the player.
+3. feat: support adding folders and music via Dock icon.
+4. fix: fix garbled Chinese characters when displaying folder names.
+
 ## [v1.3.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.3.0)
 
 1. feat: Add option to hide the status bar icon.

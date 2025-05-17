@@ -10,6 +10,13 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.4.0)
+
+1. 新增：支持丢失权限后的重新授权功能。
+2. 新增：支持将单个音乐文件拖入播放器。
+3. 新增：支持通过 Dock 图标添加文件夹和音乐。
+4. 修复：修复显示文件夹名称时中文乱码的问题。
+
 ## [v1.3.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.3.0)
 
 1. feat: 新增隐藏状态栏图标的选项
