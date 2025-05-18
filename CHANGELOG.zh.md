@@ -10,6 +10,11 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.5.0)
+
+1. ui: 修复迷你界面在参数缺失时的显示问题。
+2. feat: 新增文件扫描深度设置选项。
+
 ## [v1.4.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.4.0)
 
 1. 新增：支持丢失权限后的重新授权功能。

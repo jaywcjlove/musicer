@@ -10,6 +10,11 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.5.0)
+
+1. ui: fix display issue in mini UI when parameters are missing.
+2. feat: add file scan depth setting option.
+
 ## [v1.4.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.4.0)
 
 1. feat: add re-authorization for lost permissions.
