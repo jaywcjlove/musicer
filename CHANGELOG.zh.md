@@ -10,6 +10,11 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.6.0)
+
+1. feat: 新增窗口宽度设置功能。
+2. fix: 修复拖动窗口时的抖动问题。
+
 ## [v1.5.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.5.0)
 
 1. ui: 修复迷你界面在参数缺失时的显示问题。

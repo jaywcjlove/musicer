@@ -10,6 +10,11 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.6.0)
+
+1. feat: Add window width setting.
+2. fix: Fix jitter when dragging window.
+
 ## [v1.5.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.5.0)
 
 1. ui: fix display issue in mini UI when parameters are missing.
