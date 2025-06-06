@@ -27,7 +27,7 @@
 
 ![Musicer 2](./assets/screenshots-2.png)
 
-https://github.com/user-attachments/assets/a8e51405-7ad0-492e-80d1-9fd621814e14?title=Musicer&rehype=video
+![Musicer 3](./assets/musicer.gif)
 
 迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！
 
