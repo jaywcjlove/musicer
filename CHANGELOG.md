@@ -10,6 +10,13 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.7.0)
+
+1. feat: add large cover player.
+2. feat: add progress bar style selection.
+3. fix: fix issue with toolbar auto-hiding.
+4. fix: fix internationalization issue.
+
 ## [v1.6.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.6.0)
 
 1. feat: Add window width setting.

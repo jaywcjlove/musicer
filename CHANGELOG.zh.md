@@ -10,6 +10,13 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.7.0)
+
+1. 新增: 新增大封面播放器。
+2. 新增: 新增进度条样式选择功能。
+3. 修复: 修复工具栏自动隐藏的问题。
+4. 修复: 修复国际化问题。
+
 ## [v1.6.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.6.0)
 
 1. feat: 新增窗口宽度设置功能。
