@@ -10,6 +10,12 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.8.0)
+
+1. perf: Optimize music list loading
+2. perf: Enhance list loading efficiency  
+3. chore: Update main menu interface
+
 ## [v1.7.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.7.0)
 
 1. feat: add large cover player.

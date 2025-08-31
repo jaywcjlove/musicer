@@ -10,6 +10,12 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.8.0)
+
+1. perf：优化音乐列表加载
+2. perf：提升列表加载效率
+3. ui：更新主菜单界面
+
 ## [v1.7.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.7.0)
 
 1. 新增: 新增大封面播放器。
