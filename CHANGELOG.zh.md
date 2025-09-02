@@ -10,6 +10,12 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.9.0)
+
+1. feat: 支持通过右键菜单在应用中打开文件
+2. fix: 修复元数据缺失标题时不显示的问题
+3. fix: 修复刷新时偶发文件权限丢失的问题
+
 ## [v1.8.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.8.0)
 
 1. perf：优化音乐列表加载

@@ -10,6 +10,12 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.9.0)
+
+1. feat: Support opening files via right-click menu
+2. fix: Show title even when metadata is missing
+3. fix: Fix occasional loss of file permissions on refresh
+
 ## [v1.8.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.8.0)
 
 1. perf: Optimize music list loading
