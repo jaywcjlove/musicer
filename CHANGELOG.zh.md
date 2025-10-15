@@ -10,6 +10,10 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.1.0)
+
+1. ui: 修复界面样式问题。
+
 ## [v2.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.0.0)
 
 1. feat: 添加播放/暂停命令菜单

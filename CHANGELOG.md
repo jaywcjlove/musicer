@@ -10,6 +10,10 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.1.0)
+
+1. ui: fix interface style issues.
+
 ## [v2.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.0.0)
 
 1. feat: Add play/pause command menu.
