@@ -10,6 +10,12 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.0.0)
+
+1. feat: 添加播放/暂停命令菜单
+2. feat: 添加对 macOS 26 的支持
+3. ui: 优化界面布局
+
 ## [v1.9.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.9.0)
 
 1. feat: 支持通过右键菜单在应用中打开文件
