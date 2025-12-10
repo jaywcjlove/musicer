@@ -10,6 +10,10 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.2.0)
+
+1. perf: 优化性能，降低音乐播放动画导致的 CPU 占用
+
 ## [v2.1.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.1.0)
 
 1. ui: 修复界面样式问题。
