@@ -17,7 +17,7 @@
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/musicer/6745227444" title="Musicer for macOS">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6745227444" title="Musicer for macOS">
       <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
