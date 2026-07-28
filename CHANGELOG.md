@@ -10,6 +10,17 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.0.0)
+
+1. perf: optimize music list performance
+2. perf: improve playback responsiveness and track switching smoothness
+3. style: optimize waveform visual style
+4. style: optimize drag interaction style
+5. fix: restore spacebar play/pause shortcut and accelerate list scrolling
+6. fix: correct playback selection, hover states and playing indicators in list
+7. fix: show album artwork in system Now Playing
+8. chore: resolve build warnings and add compatibility for macOS 27
+
 ## [v2.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.2.0)
 
 1. perf: reduce CPU usage caused by music playback animation.

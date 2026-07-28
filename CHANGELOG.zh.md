@@ -10,6 +10,17 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.0.0)
+
+1. 性能：优化音乐列表性能
+2. 性能：提升播放响应速度与切歌流畅度
+3. 样式：优化波形图视觉样式
+4. 样式：优化拖拽交互样式
+5. 修复：恢复空格键播放/暂停快捷键，加快列表滚动速度
+6. 修复：修正列表选中播放、悬浮状态及播放指示标识
+7. 修复：在系统正在播放组件中展示专辑封面
+8. 修复：消除编译警告兼容 macOS 27
+
 ## [v2.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v2.2.0)
 
 1. perf: 优化性能，降低音乐播放动画导致的 CPU 占用
