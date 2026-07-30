@@ -5,6 +5,6 @@ https://wangchujiang.com/musicer/privacy-policy.zh.html
 https://wangchujiang.com/musicer/terms-of-service.html
 https://wangchujiang.com/musicer/terms-of-service.zh.html
 https://wangchujiang.com/musicer/index.html
-https://wangchujiang.com/musicer/index.zh.html
 https://wangchujiang.com/musicer/CHANGELOG.html
+https://wangchujiang.com/musicer/index.zh.html
 https://wangchujiang.com/musicer/CHANGELOG.zh.html
