@@ -10,6 +10,17 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.1.0)
+
+1. feat: 新增曲目信息编辑窗口，支持修改曲目标签
+2. feat: 新增经典、柱状、胶囊、分段式四种进度条样式
+3. feat: 新增曲目无缝衔接播放功能
+4. feat: 新增六种应用系统语言本地化适配
+5. feat: 新增可移动桌面歌词功能
+6. feat: 新增卡拉OK歌词同步及可锁定桌面悬浮层功能
+7. fix: 修复状态栏专辑封面不显示的问题，恢复正常展示
+8. fix: 关闭播放器窗口外围蓝色聚焦高亮边框
+
 ## [v3.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.0.0)
 
 1. 性能：优化音乐列表性能

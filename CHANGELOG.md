@@ -10,6 +10,17 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.1.0)
+
+1. feat: add a Get Info window for editing track tags.
+2. feat: add classic, bars, pill, and segmented progress styles.
+3. feat: add gapless playback between consecutive tracks.
+4. feat: add six new app localizations.
+5. feat: add movable desktop lyrics.
+6. feat: add karaoke lyric sync and a lockable desktop overlay.
+7. fix: restore album art in the status bar.
+8. fix: disable the blue focus ring around the player window.
+
 ## [v3.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.0.0)
 
 1. perf: optimize music list performance
