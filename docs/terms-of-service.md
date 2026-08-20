@@ -43,5 +43,5 @@ You can also contact us via **kennyiseeyou@gmail.com**, and we will respond to y
 These Terms of Service were last updated on May 10, 2025.
 
 <!--idoc:config:
-site: Musicer Terms of Service
+title: Musicer Terms of Service
 -->

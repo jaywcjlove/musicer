@@ -23,5 +23,5 @@ If you need support or encounter any issues while using the application, feel fr
 I will respond to your messages as quickly as possible. Thank you for your support!
 
 <!--idoc:config:
-site: Feedback & Support
+title: Feedback & Support
 -->

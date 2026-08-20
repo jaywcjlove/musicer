@@ -44,5 +44,5 @@ Musicer 尊重您的隐私，不会收集、存储或共享您的个人数据。
 
 
 <!--idoc:config:
-site: Musicer 服务条款
+title: Musicer 服务条款
 -->

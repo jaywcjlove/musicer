@@ -119,5 +119,5 @@ Changelog
 ## [v1.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.0.0)
 
 <!--idoc:config:
-site: Changelog
+title: Changelog
 -->

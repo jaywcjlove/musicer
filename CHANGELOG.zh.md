@@ -120,5 +120,5 @@
 
 
 <!--idoc:config:
-site: 更新日志
+title: 更新日志
 -->
