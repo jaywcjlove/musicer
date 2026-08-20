@@ -27,6 +27,8 @@
 
 ![Musicer 2](./assets/screenshots-2.png)
 
+![Musicer 3](./assets/screenshots-3.png)
+
 ![Musicer 3](./assets/musicer.gif)
 
 ![Musicer 4](./assets/musicer-2.gif)
