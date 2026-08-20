@@ -44,7 +44,7 @@
 支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等
 
 <!--idoc:config:
-site: Musicer 你便捷的本地音乐播放器
+title: Musicer 你便捷的本地音乐播放器
 description: 迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！
 keywords: music,player,local,audio,offline,waveform,mini,toolbar
 -->

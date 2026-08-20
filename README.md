@@ -45,5 +45,5 @@ Supported formats: MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A, etc.
 
 
 <!--idoc:config:
-site: Musicer - Mini and convenient local music player
+title: Musicer - Mini and convenient local music player
 -->
