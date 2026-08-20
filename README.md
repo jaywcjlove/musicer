@@ -42,3 +42,8 @@ Mini and convenient local music player, lightweight and practical, specially des
 - Display and control player in the status bar
 
 Supported formats: MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A, etc.
+
+
+<!--idoc:config:
+site: Musicer - Mini and convenient local music player
+-->
