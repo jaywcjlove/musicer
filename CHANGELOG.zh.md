@@ -10,6 +10,16 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.2.0)
+
+1. feat: 隐藏标准和大封面模式下的关闭按钮，鼠标悬停时才显示。
+2. feat: 增加均衡器功能，支持调节音效。
+3. feat: 播放列表新增搜索功能。
+4. feat: 优化歌词翻译与逐字滚动（卡拉OK）的显示效果。
+5. fix: 列表加载后自动选中第一首歌曲。
+6. fix: 修复设置中“隐藏文件夹”切换状态无法保存的问题。
+7. fix: 修复播放列表上方区域无法拖动窗口的问题。
+
 ## [v3.1.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.1.0)
 
 1. feat: 新增曲目信息编辑窗口，支持修改曲目标签

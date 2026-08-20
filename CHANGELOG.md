@@ -10,6 +10,16 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.2.0)
+
+1. feat: Hidden the close button on Standard and Large Cover views until hovered.
+2. feat: Added Equalizer support for sound customization.
+3. feat: Added a search function within playlists.
+4. feat: Improved lyric translation and word-level Karaoke display.
+5. fix: Auto-selects the first track when a playlist loads.
+6. fix: Fixed a bug where hidden folders visibility state was not saved.
+7. fix: Fixed window dragging failure in the area above the main playlist.
+
 ## [v3.1.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.1.0)
 
 1. feat: add a Get Info window for editing track tags.
