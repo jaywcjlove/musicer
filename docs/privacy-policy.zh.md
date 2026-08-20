@@ -49,3 +49,7 @@ Musicer 不集成任何第三方服务或广告平台，因此不会将您的信
 如您对本隐私政策有任何疑问或需要帮助管理您的信息，请通过以下邮箱联系我们：[kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)。
 
 本政策自 2025 年 05 月 10 日起生效。
+
+<!--idoc:config:
+site: 隐私政策
+-->

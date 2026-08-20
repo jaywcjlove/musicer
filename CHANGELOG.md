@@ -117,3 +117,7 @@ Changelog
 8. fix: Resolve issue where playback continues after clearing the playlist.
 
 ## [v1.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.0.0)
+
+<!--idoc:config:
+site: Changelog
+-->

@@ -21,3 +21,7 @@ If you need support or encounter any issues while using the application, feel fr
 - [**GitHub Issue**](https://github.com/jaywcjlove/musicer/issues/new/choose)  
 
 I will respond to your messages as quickly as possible. Thank you for your support!
+
+<!--idoc:config:
+site: Feedback & Support
+-->

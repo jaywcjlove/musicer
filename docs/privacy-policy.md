@@ -49,3 +49,6 @@ We may update this privacy policy from time to time. If there are significant ch
 If you have any questions about this privacy policy or need help managing your information, please contact us via the following email: [kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com).
 
 This policy is effective from May 10, 2025.
+<!--idoc:config:
+site: 隐私政策
+-->

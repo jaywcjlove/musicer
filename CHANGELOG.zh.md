@@ -117,3 +117,8 @@
 8. fix: 修复清空播放列表后播放仍继续的问题。
 
 ## [v1.0.0](https://github.com/jaywcjlove/musicer/releases/tag/v1.0.0)
+
+
+<!--idoc:config:
+site: 更新日志
+-->

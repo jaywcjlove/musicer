@@ -41,3 +41,7 @@ If you have any questions about our Privacy Policy or Terms of Service, or wish 
 You can also contact us via **kennyiseeyou@gmail.com**, and we will respond to your inquiries as soon as possible.
 
 These Terms of Service were last updated on May 10, 2025.
+
+<!--idoc:config:
+site: Musicer Terms of Service
+-->

@@ -41,3 +41,8 @@ Musicer 尊重您的隐私，不会收集、存储或共享您的个人数据。
 您也可以通过 **kennyiseeyou@gmail.com** 联系我们，我们将尽快回复您的问题。
 
 本服务条款最后更新于 2025 年 05 月 10 日。
+
+
+<!--idoc:config:
+site: Musicer 服务条款
+-->

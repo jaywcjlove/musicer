@@ -21,3 +21,7 @@ Musicer 是一款迷你便捷的本地音乐播放器，轻巧实用，专为播
 - [**GitHub 问题反馈**](https://github.com/jaywcjlove/musicer/issues/new/choose)  
 
 我会尽快回复你的消息。感谢你对本工具的支持！
+
+<!--idoc:config:
+site: 反馈与支持
+-->
