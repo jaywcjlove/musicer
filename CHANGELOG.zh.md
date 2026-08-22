@@ -10,6 +10,11 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.1](https://github.com/jaywcjlove/musicer/releases/tag/v3.2.1)
+
+1. pref: 优化长时间循环播放导致的偶发性卡顿
+2. fix: 修复 macOS 27 菜单项图标不显示问题
+
 ## [v3.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.2.0)
 
 1. feat: 隐藏标准和大封面模式下的关闭按钮，鼠标悬停时才显示。

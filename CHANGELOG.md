@@ -10,6 +10,11 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.1](https://github.com/jaywcjlove/musicer/releases/tag/v3.2.1)
+
+1. pref: optimize occasional stuttering caused by long‑term loop playback.
+2. fix: keep menu item icons visible on macOS 27.
+
 ## [v3.2.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.2.0)
 
 1. feat: Hidden the close button on Standard and Large Cover views until hovered.
