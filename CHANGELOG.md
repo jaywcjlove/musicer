@@ -10,6 +10,12 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.3.0)
+
+1. feat: add audio output device selection. 
+2. feat: add indicator for unreadable music files in list. 
+3. perf: fix occasional stuttering in list rendering 
+
 ## [v3.2.1](https://github.com/jaywcjlove/musicer/releases/tag/v3.2.1)
 
 1. pref: optimize occasional stuttering caused by long‑term loop playback.

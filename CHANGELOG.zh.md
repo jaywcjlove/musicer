@@ -10,6 +10,12 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.3.0)
+
+1. feat: 新增音频输出设备选择功能
+2. feat: 列表新增音乐文件无法读取状态标识
+3. perf: 优化列表渲染偶发卡顿问题
+
 ## [v3.2.1](https://github.com/jaywcjlove/musicer/releases/tag/v3.2.1)
 
 1. pref: 优化长时间循环播放导致的偶发性卡顿
