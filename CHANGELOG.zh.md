@@ -10,6 +10,11 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.4.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.4.0)
+
+1. feat: 优化文件及文件夹重命名相关问题的处理逻辑
+2. feat: 新增德语翻译支持
+
 ## [v3.3.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.3.0)
 
 1. feat: 新增音频输出设备选择功能
