@@ -10,6 +10,15 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.5.0)
+
+1. feat: 新增比特率和采样率显示。
+2. fix: 修复新窗口无法正确置顶的问题。
+3. fix: 修复因采样率不匹配导致 FLAC 文件无法播放的问题。
+4. fix: 修复迷你窗口的布局样式问题。
+5. chore: 优化多语言本地化显示。
+6. chore: 修复多个构建警告。
+
 ## [v3.4.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.4.0)
 
 1. feat: 优化文件及文件夹重命名相关问题的处理逻辑

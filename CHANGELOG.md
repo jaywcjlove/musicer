@@ -10,6 +10,15 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.5.0)
+
+1. feat: add bitrate and sample rate display.
+2. fix: fix new window not being brought to the front correctly.
+3. fix: fix FLAC playback failure caused by sample rate mismatch.
+4. fix: fix mini window layout and styling issues.
+5. chore: improve localization and internationalization.
+6. chore: fix several build warnings.
+
 ## [v3.4.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.4.0)
 
 1. feat: optimize handling logic for file and folder renaming issues.
