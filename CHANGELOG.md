@@ -10,6 +10,11 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.6.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.6.0)
+
+1. feat: add support for MCP stdio mode. 
+2. chore: update app icon. 
+
 ## [v3.5.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.5.0)
 
 1. feat: add bitrate and sample rate display.

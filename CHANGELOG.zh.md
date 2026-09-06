@@ -10,6 +10,11 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.6.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.6.0)
+
+1. feat: 新增 MCP stdio 模式支持
+2. chore: 更新应用图标
+
 ## [v3.5.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.5.0)
 
 1. feat: 新增比特率和采样率显示。
