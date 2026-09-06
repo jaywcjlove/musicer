@@ -80,7 +80,7 @@ enabled = true
 {
   "mcpServers": {
     "musicer": {
-      "command": "\/Applications\/Musicer.app\/Contents\/MacOS\/Musicer",
+      "command": "/Applications/Musicer.app/Contents/MacOS/Musicer",
       "args": ["--mcp"]
     }
   }

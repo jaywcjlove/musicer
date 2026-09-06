@@ -80,7 +80,7 @@ You can also add the following to an MCP client configuration, such as Claude De
 {
   "mcpServers": {
     "musicer": {
-      "command": "\/Applications\/Musicer.app\/Contents\/MacOS\/Musicer",
+      "command": "/Applications/Musicer.app/Contents/MacOS/Musicer",
       "args": ["--mcp"]
     }
   }
