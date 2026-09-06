@@ -45,6 +45,48 @@
 
 支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等
 
+### Musicer，拥抱AI能力
+
+Musicer 支持 **[MCP](https://modelcontextprotocol.io)（模型上下文协议，Model Context Protocol）**。将它接入 Claude、Cursor、Grok 等 AI 客户端后，你就可以用自然语言实现音乐搜索、播放、暂停、切歌，还能读取当前播放曲目以及歌词。
+
+#### 在 Grok 中配置
+
+```bash
+# 添加 Musicer MCP 服务器
+$ grok mcp add Musicer \
+  --transport stdio \
+  --scope user \
+  -- "/System/Applications/Musicer.app/Contents/MacOS/Musicer" --mcp
+# 移除 Musicer MCP 服务器
+$ grok mcp remove musicer
+# 列出已配置的 MCP 服务器
+$ grok mcp list
+# 诊断 Musicer MCP 服务器的连接状态
+$ grok mcp doctor Musicer
+```
+
+直接在配置(`vim ~/.grok/config.toml`)中配置：
+
+```ini
+[mcp_servers.musicer]
+command = "/Applications/Musicer.app/Contents/MacOS/Musicer"
+args = ["--mcp"]
+enabled = true
+```
+
+也可以将以下内容添加到 MCP 客户端配置中(Claude Desktop、Cursor等)：
+
+```json
+{
+  "mcpServers": {
+    "musicer": {
+      "command": "\/Applications\/Musicer.app\/Contents\/MacOS\/Musicer",
+      "args": ["--mcp"]
+    }
+  }
+}
+```
+
 <!--idoc:config:
 title: Musicer 你便捷的本地音乐播放器
 description: 迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！
