@@ -10,6 +10,13 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.7.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.7.0)
+
+1. feat: 播放窗口支持液态玻璃效果
+2. feat: 状态栏菜单添加更多设置
+3. fix: 修复设置内关于页面显示问题
+4. fix: 修复主窗口偶尔不显示的问题
+
 ## [v3.6.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.6.0)
 
 1. feat: 新增 MCP stdio 模式支持

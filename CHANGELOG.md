@@ -10,6 +10,13 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.7.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.7.0)
+
+1. feat: add liquid glass effect support for playback window.
+2. feat: add more settings to status bar menu.
+3. fix: fix display issue on about page in settings.
+4. fix: fix main window occasionally not showing.
+
 ## [v3.6.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.6.0)
 
 1. feat: add support for MCP stdio mode. 
