@@ -10,6 +10,11 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.8.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.8.0)
+
+1. feat: 在播放窗口新增歌词展示功能
+2. style: 优化状态栏封面尺寸
+
 ## [v3.7.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.7.0)
 
 1. feat: 播放窗口支持液态玻璃效果

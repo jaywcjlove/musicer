@@ -10,6 +10,11 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.8.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.8.0)
+
+1. feat: add lyrics display in playback window.
+2. style: optimize cover size in status bar.
+
 ## [v3.7.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.7.0)
 
 1. feat: add liquid glass effect support for playback window.
