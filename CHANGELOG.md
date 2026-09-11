@@ -10,6 +10,11 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.10.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.10.0)
+
+1. feat: add lyrics display in status bar. 
+2. refactor: optimize toolbar display animation in large cover mode. 
+
 ## [v3.9.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.9.0)
 
 1. feat: add lyrics in sidebar.
