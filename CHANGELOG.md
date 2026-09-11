@@ -10,6 +10,14 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.9.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.9.0)
+
+1. feat: add lyrics in sidebar.
+2. fix: optimize menu bar icon display.
+3. fix: resolve lyrics line break display issue.
+4. refactor: optimize toolbar style of lyrics window.
+5. perf: optimize song search performance in list.
+
 ## [v3.8.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.8.0)
 
 1. feat: add lyrics display in playback window.

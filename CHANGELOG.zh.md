@@ -10,6 +10,14 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.9.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.9.0)
+
+1. feat: 新增侧边栏歌词
+2. fix: 优化菜单栏图标显示
+3. fix: 修复歌词换行显示问题
+4. refactor: 优化歌词窗口工具栏样式
+5. perf: 优化列表歌曲搜索性能
+
 ## [v3.8.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.8.0)
 
 1. feat: 在播放窗口新增歌词展示功能
