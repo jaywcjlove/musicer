@@ -10,6 +10,11 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.11.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.11.0)
+
+1. feat：重新配置5个歌词显示快捷键
+2. feat：优化CPU占用，降低资源消耗
+
 ## [v3.10.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.10.0)
 
 1. feat: 添加状态栏歌词显示

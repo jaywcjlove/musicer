@@ -10,6 +10,11 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.11.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.11.0)
+
+1. feat: reconfigure 5 shortcut keys for lyric display. 
+2. feat: optimize CPU usage and reduce resource consumption. 
+
 ## [v3.10.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.10.0)
 
 1. feat: add lyrics display in status bar. 
