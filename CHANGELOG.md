@@ -10,6 +10,16 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.12.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.12.0)
+
+1. feat: Add setting options to dock right-click menu.
+2. feat: Add setting to show current album art on dock icon.
+3. feat: Add menu for copying track info.
+4. feat: Add setting for time display format.
+5. feat: Add repeat playback menu to status bar menu.
+6. fix: Disable captcha AutoFill for search input.
+7. fix: Fix jitter on appearance of menu bar button icons.
+
 ## [v3.11.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.11.0)
 
 1. feat: reconfigure 5 shortcut keys for lyric display. 

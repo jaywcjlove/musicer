@@ -10,6 +10,16 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.12.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.12.0)
+
+1. 新增：在程序坞右键菜单添加设置选项
+2. 新增：增加设置项，可在程序坞图标上显示当前专辑封面
+3. 新增：添加曲目信息复制菜单
+4. 新增：增加时间显示格式设置项
+5. 新增：在状态栏菜单添加循环播放菜单
+6. 修复：关闭搜索输入框的验证码自动填充功能
+7. 修复：解决菜单栏按钮图标出现时的抖动问题
+
 ## [v3.11.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.11.0)
 
 1. feat：重新配置5个歌词显示快捷键
