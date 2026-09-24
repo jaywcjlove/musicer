@@ -53,7 +53,7 @@ Musicer 支持 **[MCP](https://modelcontextprotocol.io)（模型上下文协议�
 
 ```bash
 # 添加 Musicer MCP 服务器
-$ grok mcp add Musicer \
+$ grok mcp add musicer \
   --transport stdio \
   --scope user \
   -- "/System/Applications/Musicer.app/Contents/MacOS/Musicer" --mcp
@@ -62,7 +62,7 @@ $ grok mcp remove musicer
 # 列出已配置的 MCP 服务器
 $ grok mcp list
 # 诊断 Musicer MCP 服务器的连接状态
-$ grok mcp doctor Musicer
+$ grok mcp doctor musicer
 ```
 
 直接在配置(`vim ~/.grok/config.toml`)中配置：

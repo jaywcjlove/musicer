@@ -53,7 +53,7 @@ Musicer supports the **[Model Context Protocol (MCP)](https://modelcontextprotoc
 
 ```bash
 # Add the Musicer MCP server
-$ grok mcp add Musicer \
+$ grok mcp add musicer \
   --transport stdio \
   --scope user \
   -- "/System/Applications/Musicer.app/Contents/MacOS/Musicer" --mcp
@@ -62,7 +62,7 @@ $ grok mcp remove musicer
 # List configured MCP servers
 $ grok mcp list
 # Diagnose the Musicer MCP server connection
-$ grok mcp doctor Musicer
+$ grok mcp doctor musicer
 ```
 
 Alternatively, configure it directly in `~/.grok/config.toml`:
