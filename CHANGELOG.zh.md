@@ -10,6 +10,10 @@
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.12.1](https://github.com/jaywcjlove/musicer/releases/tag/v3.12.1)
+
+1. 修复：GUI 退出或套接字断开时，确保 MCP 正常退出
+
 ## [v3.12.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.12.0)
 
 1. 新增：在程序坞右键菜单添加设置选项

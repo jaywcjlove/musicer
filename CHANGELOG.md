@@ -10,6 +10,10 @@ Changelog
 <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.12.1](https://github.com/jaywcjlove/musicer/releases/tag/v3.12.1)
+
+1. fix: ensure MCP exits when GUl quits or socket drops.
+
 ## [v3.12.0](https://github.com/jaywcjlove/musicer/releases/tag/v3.12.0)
 
 1. feat: Add setting options to dock right-click menu.
